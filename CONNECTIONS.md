@@ -1,7 +1,7 @@
 # Clapster — Hardware Wiring Guide
 
-This document explains how to connect all hardware components for **Clapster 1.0**.
-All connections match the pin usage in `Clapster.ino`.
+Here I'll try to explain how to connect all hardware components for **Clapster 1.0**.
+All connections match the pin usage in `Clapster.ino`, but you are free to choose your own pins.
 
 ---
 
