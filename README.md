@@ -9,9 +9,9 @@ It was developed as part of the **Prototyping Interactive Systems** course at Ge
 The project integrates **audio sensing**, **pattern–matching algorithms**, **LCD UI design**, **EEPROM storage**, and **gamified interaction modes** to help users practice timing and rhythmic accuracy.
 The code is in `Clapster.ino`.
 
-**Demo Video:**  
-Watch a short demo of Clapster in action on YouTube:  
-https://youtu.be/xb7TcXlH2yw
+<a href="https://youtu.be/xb7TcXlH2yw" target="_blank" rel="noopener noreferrer">
+🎥 Watch the demo video on YouTube
+</a>
 
 ---
 
